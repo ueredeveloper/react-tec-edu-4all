@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Curso Básico de ReactJS e MySQL- CRUD
+
+[Playlist - TecEdu4All](https://www.youtube.com/watch?v=zP0gb1Rj6EU&list=PL2hDwB8DzXGOxIuijrYNrPrKcjQERQtbO&index=2)
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
